@@ -9,5 +9,6 @@ The main focus will be in tweets and links written in English for such task.
 
 ## Tools and Technologies
 
-The whole analysis can be summarize as:
-
+The architecture of this project is the following:
+ 
+![alt text](https://github.com/jrn1989/Twitter-Topic-Modeling/blob/master/architecture.png"Logo Title Text 1")
